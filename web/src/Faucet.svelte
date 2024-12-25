@@ -7,9 +7,9 @@
   let input = null;
   let faucetInfo = {
     account: '0x0000000000000000000000000000000000000000',
-    network: 'Ciper TESTNET',
+    network: 'CIPHER TESTNET',
     payout: 2,
-    symbol: 'Ciper',
+    symbol: 'CIPHER',
     hcaptcha_sitekey: '',
   };
 
